@@ -106,7 +106,7 @@ if (cam==1) {
                     listadecompras.push(equipo14)
                     alert( `usted ha seleccionado ${equipo14.modelo} y tiene un valor de $ ${equipo14.precio} ARS por jornada`)
                 }else if (trip==3){ 
-                    listadecompras.push(quipo15)
+                    listadecompras.push(equipo15)
                     alert( `usted ha seleccionado ${equipo15.modelo} y tiene un valor de $ ${equipo15.precio} ARS por jornada`)
                 } else if (trip==4){ 
                     listadecompras.push(equipo16)
